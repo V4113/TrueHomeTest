@@ -26,6 +26,11 @@ insert into property(title,address, description, created_at, updated_at, disable
 
 =============TERMINA SCRIPT=========================
 
-Para las validaciones requeridas en el test me tome la libertad de usar los estatus de esta manera (POR LO QUE LA PRUEBA DEL API SE TIENEN QUE ENVIAR CON ESTOS STATUS EN CADENA) cat_status_property --(string) active --(string) inactive
+#Para las validaciones requeridas en el test me tome la libertad de usar los estatus de esta manera 
+#(POR LO QUE LA PRUEBA DEL API SE TIENEN QUE ENVIAR CON ESTOS STATUS EN CADENA) 
 
-cat_status activity --(string) active --(string) cancel --(string) done
+#cat_status_property 
+#--(string) active --(string) inactive
+
+#cat_status activity 
+#--(string) active --(string) cancel --(string) done
