@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7tC2zF5xO6Zc8Oh32C3RjTATvDZn+PWfs8sn/+OxH7n052EoAQ/DU3ulTDQvQouH4aU7m6t1c8HklBFRRbfoNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alfredo\\Desktop\\TestTrueHome\\TestTrueHome\\TestTrueHome.Data\\TestTrueHome.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alfredo\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Alfredo\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\Alfredo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\bin\Debug\net6.0\TestTrueHome.Data.deps.json
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\bin\Debug\net6.0\TestTrueHome.Data.dll
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\bin\Debug\net6.0\ref\TestTrueHome.Data.dll
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\bin\Debug\net6.0\TestTrueHome.Data.pdb
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\bin\Debug\net6.0\TestTrueHome.Model.dll
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\bin\Debug\net6.0\TestTrueHome.Model.pdb
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\obj\Debug\net6.0\TestTrueHome.Data.csproj.AssemblyReference.cache
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\obj\Debug\net6.0\TestTrueHome.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\obj\Debug\net6.0\TestTrueHome.Data.AssemblyInfoInputs.cache
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\obj\Debug\net6.0\TestTrueHome.Data.AssemblyInfo.cs
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\obj\Debug\net6.0\TestTrueHome.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\obj\Debug\net6.0\TestTrueHome.Data.csproj.CopyComplete
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\obj\Debug\net6.0\TestTrueHome.Data.dll
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\obj\Debug\net6.0\ref\TestTrueHome.Data.dll
+C:\Users\Alfredo\Desktop\TestTrueHome\TestTrueHome\TestTrueHome.Data\obj\Debug\net6.0\TestTrueHome.Data.pdb

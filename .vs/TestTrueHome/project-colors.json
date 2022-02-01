@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e983e34e-cef7-4cb1-a119-8ac4dd39ff96": {
+      "ProjectGuid": "e983e34e-cef7-4cb1-a119-8ac4dd39ff96",
+      "DisplayName": "TestTrueHome",
+      "ColorIndex": 0
+    },
+    "4408077b-e6fe-4f50-9f8a-a0113e30ee4f": {
+      "ProjectGuid": "4408077b-e6fe-4f50-9f8a-a0113e30ee4f",
+      "DisplayName": "TestTrueHome.Data",
+      "ColorIndex": 1
+    },
+    "f5cbf2eb-1c32-48e5-810c-9f1b443ad430": {
+      "ProjectGuid": "f5cbf2eb-1c32-48e5-810c-9f1b443ad430",
+      "DisplayName": "TestTrueHome.Model",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
